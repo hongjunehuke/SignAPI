@@ -13,3 +13,11 @@ Spring을 공부하며 MVC 구조를 따라 구현한 회원가입 기능입니�
 - 서비스: 핵심 비즈니스 로직 구현
 - 리포지토리: 데이터베이스에 접근, 도메인 객체를 DB에 저장하고 관리
 - 도메인: 비즈니스 도메인 객체, 예) 회원, 주문, 쿠폰 등등 주로 데이터베이스에 저장하고 관리됨
+
+### 동작화면
+
+![image](https://github.com/hongjunehuke/SignAPI/assets/83629193/9a683d38-3803-45bf-b632-34c02da49896)
+![image](https://github.com/hongjunehuke/SignAPI/assets/83629193/cf5276ff-ae71-478e-ad03-700991387dfb)
+![image](https://github.com/hongjunehuke/SignAPI/assets/83629193/80105c39-2771-4577-93f5-dbfe6f442f88)
+![image](https://github.com/hongjunehuke/SignAPI/assets/83629193/6afb7e8a-40f3-4d3d-87d3-0d1e33068fda)
+![image](https://github.com/hongjunehuke/SignAPI/assets/83629193/b4da692f-af07-45af-b3ff-4e590129f036)
